@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+
+	--font-primary: 'Poppins';
+
+	--color-black: #000000;
+	--color-white: #FFFFFF;
+	--color-raisin-black: #262626;
+	--color-outer-space: #454545;
+	--color-chinese-silver: #C9C9C9;
+	--color-dark-silver: #707070;
+	--color-taupe-gray: #878787;
+	--color-heliotrope: #C374FF;
+	--color-soap: #D6C1E7;
+}
